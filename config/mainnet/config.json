@@ -1,0 +1,17 @@
+{
+    "chain_id": "feather-1",
+    "app_name": "mychain",
+    "app_binary_name": "mychaind",
+    "account_address_prefix": "myprefix",
+    "account_pubkey_prefix": "myprefixpub",
+    "validator_address_prefix": "myprefixvaloper",
+    "validator_pubkey_prefix": "myprefixvaloperpub",
+    "consensus_node_address_prefix": "myprefixvalcons",
+    "consensus_node_pubkey_prefix": "myprefixvalconspub",
+    "bond_denom": "mydenom",
+    "bond_supply": "1000000000",
+    "unbonding_time": "1814400s",
+    "max_validators": 130,
+    "max_entries": 7,
+    "min_commission_rate": "0"
+}
